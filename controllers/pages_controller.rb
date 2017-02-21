@@ -4,4 +4,7 @@ class PagesController < ApplicationController
     
     def overview
     end
+    
+    def bestpractices
+    end
 end
