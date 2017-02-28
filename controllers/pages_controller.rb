@@ -7,4 +7,7 @@ class PagesController < ApplicationController
     
     def bestpractices
     end
+    
+    def analysis
+    end
 end
