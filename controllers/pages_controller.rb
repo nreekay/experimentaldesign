@@ -10,4 +10,7 @@ class PagesController < ApplicationController
     
     def analysis
     end
+    
+    def menu
+    end
 end
